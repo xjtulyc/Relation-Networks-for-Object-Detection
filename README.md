@@ -11,3 +11,11 @@ This work proposes an object relation module. It processes a set of objects simu
 ```
 python train.py
 ```
+
+## The implement of Relation Network Version 2
+
+```
+cd RelationNet
+python train.py
+python test.py
+```
